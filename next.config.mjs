@@ -8,7 +8,6 @@ const nextConfig = {
     images: {
       domains: ['lh3.googleusercontent.com'],
     },
-    future: { webpack5: true, },
 
 /*images: {
         remotePatterns: [
@@ -27,7 +26,7 @@ const nextConfig = {
         topLevelAwait: true,
       }
       return config
-    },
+    }
   }
   
   //module.exports = nextConfig

@@ -1,5 +1,5 @@
-// 'use client'
-// import { useState, useEffect} from 'react';
+'use client'
+import { useState, useEffect} from 'react';
 
 // import { useRouter, useSearchParams } from 'next/navigation';
 // import Form from '@components/Form';
@@ -72,4 +72,10 @@
 //     );
 // };
 
-// export default UpdatePrompt;
+const UpdatePrompt = ()=>{
+    return(
+        <div>"hello"</div>
+    )
+}
+
+export default UpdatePrompt;
